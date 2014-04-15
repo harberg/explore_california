@@ -1,0 +1,29 @@
+commit bb5469a2964a491a1f142fee408ae9e9d1e56a30
+Author: Nick Harberg <nick@seamonsterstudios.com>
+Date:   Tue Apr 15 10:58:23 2014 -0700
+
+    Revert "Rearrange the items to bring on an outdoor trip"
+    
+    This reverts commit e5933f0a8fbe2f1879b0b2ac96529a000c74f770.
+
+commit e5933f0a8fbe2f1879b0b2ac96529a000c74f770
+Author: Nick Harberg <nick@seamonsterstudios.com>
+Date:   Tue Apr 15 10:50:15 2014 -0700
+
+    Rearrange the items to bring on an outdoor trip
+
+commit 78aca7fe1b2c8c1e1bbd1d534f0a44a522165c78
+Author: Nick Harberg <nick@seamonsterstudios.com>
+Date:   Tue Apr 15 10:40:07 2014 -0700
+
+    Removed contractions from contact page
+
+commit 2fa55094701c388884c7aceac694b5b931a5eaf4
+Author: Nick Harberg <nick@seamonsterstudios.com>
+Date:   Tue Apr 15 10:39:54 2014 -0700
+
+    Renamed Backpack Cal file for clarity
+
+commit 9d61076202f8ef7d8c961dff9bedf3b5d0831f84
+Author: Nick Harberg <nick@seamonsterstudios.com>
+Date:   Tue Apr 15 10:30:55 2014 -0700
